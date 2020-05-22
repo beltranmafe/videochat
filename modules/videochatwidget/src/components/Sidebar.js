@@ -19,9 +19,6 @@ function Sidebar(){
                 </li>
             ))} 
         </ul>   
-        <div>
-            <img src=""/>
-        </div>
     </nav>
     )
 }
