@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Liferay&React\VideoChat\.metadata\.plugins\org.eclipse.jdt.core

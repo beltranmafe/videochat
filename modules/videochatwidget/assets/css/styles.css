@@ -1,0 +1,66 @@
+
+/* General configuration */
+html, body {
+    margin: 0;
+	padding: 0;
+	background-color: var(--dark);
+}
+
+/* Sidebar styles */
+.sidebar {
+    width: 4em;
+    padding: 1em 0;
+    height: 100vh;
+    margin-left: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.sidebar ul,li{
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+/* Icons styles */
+.icon:hover {
+    background-color: var(--light);
+}
+
+.icon:hover a svg{
+    color:var(--primary) !important;
+}
+
+.icon:hover a svg .icon-off{
+    stroke: var(--primary) !important;
+}
+
+.icon-off{
+    stroke: var(--light);
+}
+
+/*Videoscreen styles*/
+
+.videoscreen{
+    position: relative;
+    padding: 4%;
+    width: 100%;
+}
+
+/* Suscriber styles */
+
+.suscriber{
+    width: 100%;
+    height: 100%;
+    background-color: var(--light);
+}
+
+/* Publisher styles */
+
+.publisher{
+    position: absolute;
+    width: 24%;
+    height: 24%;
+    bottom: 5rem;
+    right: 5rem;
+    background-color: var(--dark);
+}

@@ -1,0 +1,4 @@
+Bundle-Name: Videochat-Rest
+Bundle-SymbolicName: com.vass.service.videochat
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
